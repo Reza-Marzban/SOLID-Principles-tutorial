@@ -25,3 +25,8 @@ One should "depend upon abstractions, not concretions".
 
 
 https://en.wikipedia.org/wiki/SOLID
+
+
+For more information refer to the Tutorial Powerpoint.
+
+Sample codes are included in this repository as well.
